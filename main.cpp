@@ -1,6 +1,7 @@
 void quicksort(){
-    hi yjer wer wr we 
+        Don.t do tthis please
 }
 void mergesort(){
     ?WdweDE
+
 }
